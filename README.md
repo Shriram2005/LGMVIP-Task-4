@@ -22,4 +22,5 @@ For the source code and to try the app, visit the [GitHub repository](https://gi
 Stay connected on [LinkedIn](https://www.linkedin.com/in/shriram-mange) for more updates and projects!
 
 Screenshot : 
-![Screenshot 2024-07-17 180628](https://github.com/user-attachments/assets/1e9bf759-3ab3-4c45-9e50-46c8c947dff3)
+
+![Screenshot 2024-07-17 180746](https://github.com/user-attachments/assets/ee79be4f-a12d-4d91-9099-712ee51b51dc)
